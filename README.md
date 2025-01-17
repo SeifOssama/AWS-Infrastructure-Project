@@ -6,7 +6,7 @@ This project demonstrates the design and automation of a scalable, secure AWS in
 
 ![Architecture Diagram](Docs/AWS-Project.gif)
 
-##Video Implementation
+## Video Implementation
 Below is a demonstration of the project implementation:
 
 <video controls>
