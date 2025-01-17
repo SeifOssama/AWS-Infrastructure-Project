@@ -7,9 +7,6 @@ This project demonstrates the design and automation of a scalable, secure AWS in
 ![Architecture Diagram](Docs/AWS-Project.gif)
 
 ## Video Implementation
-Below is a demonstration of the project implementation:
 
-<video controls>
-  <source src="Docs/AWS-Implementation-Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+[View Video on Google Drive] (https://drive.google.com/drive/folders/1Rbuu36csvQOkPTaqE9ePmxD5Y6MhoK29?usp=drive_link)
