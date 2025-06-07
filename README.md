@@ -1,4 +1,4 @@
-# Scalable Cloud AWS Infrastructure with Terraform
+# Scalable AWS Infrastructure with Terraform
 This project demonstrates the design and automation of a scalable, secure AWS infrastructure using Terraform. It showcases best practices in cloud architecture, automation, and resource management.
 
 ### Objectives:
